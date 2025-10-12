@@ -1,1 +1,14 @@
-/* Add CSS Styling */
+.f1,
+.f2 {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}/* Add CSS Styling */
+
+.f1 {
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+}
+
+.f2 {
+    background-color: rgb(255, 255, 0);
+}
